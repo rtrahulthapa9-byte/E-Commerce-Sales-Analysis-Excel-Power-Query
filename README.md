@@ -1,4 +1,5 @@
-# 📢 Amazon Sales Dashboard using Excel !
+# 📢 Amazon Sales Dashboard using Excel 
+![Image](https://github.com/rtrahulthapa9-byte/Sales-Analysis-Excel/blob/3d533b8569295a63bc64ef426a805d1756d1432b/Sales_Dashboard.png)
 
 👉 Excited to share my first project where I analyzed sales data and created an interactive dashboard to uncover key business insights.
 
