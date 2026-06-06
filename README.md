@@ -35,24 +35,39 @@ I used power query to:
 **Key Insights**
 
 •	34% of orders have been successfully delivered, while nearly 66% are either pending or returned.
+
 •	The return rate is extremely high almost equal to delivered orders.
+
 •	Revenue is almost equally distributed across delivered, pending, and returned orders.
+
 •	Large amount of revenue is currently at risk due to pending and returned orders.
+
 •	Q1 recorded the highest & Q2 lowest order volume.
+
 •	Headphone is highest-selling and Vacuum Cleaner lowest selling product by revenue.
+
 •	Children's Book Highest order volume among products.
+
 •	In term of average ratings Electronics receive the highest customer satisfaction, while Clothing has the lowest ratings.
+
 •	Customers use all payment methods relatively equally, reducing dependency on a single payment channel.
+
 •	Sikkim is the highest & Andhra Pradesh is the lowest revenue-generating state.
 
 **Recommendation**
 
 •	Reduce return rate through better product descriptions, quality control, and delivery accuracy.
-•	Increase marketing in Andhra Pradesh to improve regional performance
+
+•	Increase marketing in Andhra Pradesh to improve regional performanc.
+
 •	Promote UPI payments to reduce COD dependency.
+
 •	Replicate successful strategies from Sikkim in other states.
+
 •	Clear pending orders faster to convert ₹377.2M of at-risk revenue into completed sales.
+
 •	Invest more in Electronics and Headphones, which are top revenue contributors.
+
 •	Improve Clothing category quality, which has the lowest ratings.
 
 
