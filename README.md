@@ -16,6 +16,7 @@
 •	Quarterly and monthly sales trends
 
 **My Approach**
+
 I used power query to:
 •	Clean and transform the raw dataset
 •	Remove inconsistencies and prepare the data for analysis
