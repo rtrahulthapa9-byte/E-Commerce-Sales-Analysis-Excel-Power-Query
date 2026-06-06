@@ -9,18 +9,27 @@
 
 **Problem Statement** 
 •	Revenue and cash flow performance
+
 •	Delivery success and pending orders
+
 •	Return-related losses
+
 •	Top-performing products and states
+
 •	Customer payment preferences
+
 •	Quarterly and monthly sales trends
 
 **My Approach**
 
 I used power query to:
+
 •	Clean and transform the raw dataset
+
 •	Remove inconsistencies and prepare the data for analysis
+
 •	Create calculated fields and business metrics
+
 •	Build interactive dashboards using Pivot Tables, Pivot Charts, and Slicers
 
 **Key Insights**
