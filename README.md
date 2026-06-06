@@ -1,42 +1,12 @@
-# 📢 Amazon Sales Dashboard using Excel 
+# 📢 E-Commerce Sales Dashboard 
 ![Image](https://github.com/rtrahulthapa9-byte/E-Commerce-Sales-Analysis-Excel-Power-Query/blob/ad9e66b2e151602c006640caaa62c04d78419a29/Screenshot%202026-06-05%20153650.png)
 
-👉 Excited to share my first project where I analyzed sales data and created an interactive dashboard to uncover key business insights.
+# Project Overview
 
-👉 Data was unstructured and difficult to analyze, limiting visibility into revenue, returns, and regional performance. I cleaned and transformed the data using excel, then built a dashboard to track cash flow, delivery success, top-performing states, return losses, product trends, and payment insights.It helped me identify growth opportunities and improve business decisions.
+This dashboard was created to analyze Amazon e-commerce sales data for the year 2025 and gain insights into overall business performance. It helps track sales and order trends on a monthly and quarterly basis to understand customer demand throughout the year. The dashboard also provides insights into product performance, delivery status, returns, and payment methods. By visualizing key business metrics in one place, it helps identify growth opportunities, monitor performance, and support better business decisions.
 
-🎯 Key Insights
+# Tools: MS Excel & Power Query       
+# Data Source: Kaggle
+# Table: 13 column & 15038 rows
+# Time Period: 2025
 
-🔸 Beauty is the top-performing category (227.9M in sales).
-
-🔸 COD is the most preferred payment method.
-
-🔸  Sikkim leads in both orders (1,313) and revenue (98.7M).
-
-🔸 Children’s Books and Perfume have the highest demand.
-
-🔸  Returns caused a major loss (364.5M, ~32% of sales).
-
-🔸  5,055 orders are pending and need urgent action.
-
-🔸 Vacuum Cleaners & Water Purifiers show lowest demand.
-
-🔸  Home & Kitchen is the weakest category overall.
-
-🎯 Recommendations
-
-🔹 Analyze high return losses (364.5M) and identify courier-related issues.
-
-🔹  Clear 5,055 pending orders quickly to avoid cancellations.
-
-🔹 Run targeted sales to clear low-demand inventory and free up warehouse space.
-
-🔹 Reallocate marketing budget from low-performing to high-growth categories.
-
-🔹  Increase ad spend on top-performing segments to maximize revenue.
-
-🔹  Strengthen supply and offers in high-performing states.
-
-🔹  Encourage online payments to improve delivery speed and operational efficiency.
-
-**Tools**: Excel
