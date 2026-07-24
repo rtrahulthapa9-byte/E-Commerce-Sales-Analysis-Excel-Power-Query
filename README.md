@@ -1,5 +1,5 @@
 # 📢 E-Commerce Sales Dashboard 
-![Image](https://github.com/rtrahulthapa9-byte/E-Commerce-Sales-Analysis-Excel-Power-Query/blob/ad9e66b2e151602c006640caaa62c04d78419a29/Screenshot%202026-06-05%20153650.png)
+![Image](https://github.com/rtrahulthapa9-byte/E-Commerce-Sales-Analysis-Excel-Power-Query/blob/dc8c918656a072b3466da0af7adc6b26f60a0335/Screenshot%202026-07-24%20183615.png)
 
 **Project Overview**
 
