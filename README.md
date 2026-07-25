@@ -24,7 +24,7 @@
 
 •	Analyzed sales trends across 5 product categories and 4 quarters, showing Books as the top category by orders (3,046) and Q3 as the strongest quarter for both orders (3,820) and revenue (₹281M)
 
-This project helped me strengthen my skills in data visualization, dashboard development, KPI analysis, DAX and business intelligence
+**This project helped me strengthen my skills in data visualization, dashboard development, KPI analysis, DAX and business intelligence**
 
 
 
