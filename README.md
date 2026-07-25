@@ -1,74 +1,30 @@
-# 📢 E-Commerce Sales Dashboard 
+# 📢  Power BI Project: E-Commerce Sales Analysis
 ![Image](https://github.com/rtrahulthapa9-byte/E-Commerce-Sales-Analysis-Excel-Power-Query/blob/dc8c918656a072b3466da0af7adc6b26f60a0335/Screenshot%202026-07-24%20183615.png)
 
 **Project Overview**
 
-*This dashboard was created to analyze Amazon e-commerce sales data for the year 2025 and gain insights into overall business performance. It helps track sales and order trends on a monthly and quarterly basis to understand customer demand throughout the year. The dashboard also provides insights into product performance, delivery status, returns, and payment methods. By visualizing key business metrics in one place, it helps identify growth opportunities, monitor performance, and support better business decisions.*
+ In this project, I analyzed an e-commerce sales dataset and built an interactive dashboard to help businesses monitor sales performance and make data-driven decisions.
+ 
 
-**Tools:** *MS Excel & Power Query*   **Data Source:** *Kaggle* **Table:** *13 column & 15038 row*  **Time Period:** *2025*
+**Tools:** MS Excel, Power Query & Power BI **Data Source:** Kaggle **Table:** 13 column & 15038 row  **Time Period:** 2025
 
-**Problem Statement** 
-*•	Revenue and cash flow performance*
+**3 KPIs:** Total  Revenue , Total Orders & Total Quantity 
 
-*•	Delivery success and pending orders*
+**8 visualizations:** Revenue by product category, Orders by product category, Order by quarter, Revenue by quarter, Top earning state, Lowest Earning state, Highest earning product & Lowest earning product
 
-*•	Return-related losses*
-
-*•	Top-performing products and states*
-
-*•	Customer payment preferences*
-
-*•	Quarterly and monthly sales trends*
-
-**My Approach**
-
-*I used power query to:*
-
-*•	Clean and transform the raw dataset*
-
-*•	Remove inconsistencies and prepare the data for analysis*
-
-*•	Create calculated fields and business metrics*
-
-*•	Build interactive dashboards using Pivot Tables, Pivot Charts, and Slicers*
+**2 Interactive slicers:**  Delivery Status & Product Category
 
 **Key Insights**
 
-*•	34% of orders have been successfully delivered, while nearly 66% are either pending or returned.*
+•	Generate ₹1,122M in revenue from 15,037 orders, with an average order value of ₹74,602, tracked delivery performance showing 33.84% delivered, 33.62% pending, and 32.54% returned
 
-*•	The return rate is extremely high almost equal to delivered orders.*
+•	Identified Sikkim, Chhattisgarh, and Rajasthan as top revenue generating states, while Andhra Pradesh, Gujarat, and Nagaland showed the lowest earnings.
 
-*•	Revenue is almost equally distributed across delivered, pending, and returned orders.*
+• Found Headphones, Children's Book, and Lipstick as the best selling products, while Vacuum Cleaner, Water Purifier, and Shampoo had the lowest sales.
 
-*•	Large amount of revenue is currently at risk due to pending and returned orders.*
+•	Analyzed sales trends across 5 product categories and 4 quarters, showing Books as the top category by orders (3,046) and Q3 as the strongest quarter for both orders (3,820) and revenue (₹281M)
 
-*•	Q1 recorded the highest & Q2 lowest order volume.*
-
-*•	Headphone is highest-selling and Vacuum Cleaner lowest selling product by revenue.*
-
-*•	Children's Book Highest order volume among products.*
-
-*•	In term of average ratings Electronics receive the highest customer satisfaction, while Clothing has the lowest ratings.*
-
-*•	Customers use all payment methods relatively equally, reducing dependency on a single payment channel.*
-
-*•	Sikkim is the highest & Andhra Pradesh is the lowest revenue-generating state.*
-
-**Recommendation**
-
-*•	Reduce return rate through better product descriptions, quality control, and delivery accuracy.*
-
-*•	Increase marketing in Andhra Pradesh to improve regional performance.*
-
-*•	Promote UPI payments to reduce COD dependency.*
-
-*•	Replicate successful strategies from Sikkim in other states.*
-
-*•	Clear pending orders faster to convert ₹377.2M of at-risk revenue into completed sales.*
-
-*•	Invest more in Electronics and Headphones, which are top revenue contributors.*
-
-*•	Improve Clothing category quality, which has the lowest ratings.*
+This project helped me strengthen my skills in data visualization, dashboard development, KPI analysis, DAX and business intelligence
 
 
 
