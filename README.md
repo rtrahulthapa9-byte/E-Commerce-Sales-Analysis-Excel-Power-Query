@@ -1,5 +1,5 @@
 # 📢  Power BI Project: E-Commerce Sales Analysis
-![Image](https://github.com/rtrahulthapa9-byte/E-Commerce-Sales-Analysis-Excel-Power-Query/blob/dc8c918656a072b3466da0af7adc6b26f60a0335/Screenshot%202026-07-24%20183615.png)
+![Image](https://github.com/rtrahulthapa9-byte/E-Commerce-Sales-Analysis-Excel-Power-Query/blob/4ca1e9695f254d8807336fc55285b21b1d6ec0e8/Screenshot%202026-07-25%20125747.png)
 
 **Project Overview**
 
